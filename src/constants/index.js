@@ -17,6 +17,7 @@ import {
   reactjs,
   git,
   docker,
+  zenco,
   inapp,
   uol,
   cdac,
