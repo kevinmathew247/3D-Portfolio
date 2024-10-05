@@ -23,6 +23,7 @@ import python from "./tech/python.png";
 import reactjs from "./tech/reactjs.png";
 import sql from "./tech/sql.png";
 
+import zenco from "./company/zenco.png";
 import inapp from "./company/inapp.png";
 import cdac from "./company/cdac.png";
 import uol from "./company/uol.png";
@@ -59,6 +60,7 @@ export {
   reactjs,
   sql,
   uol,
+  zenco,
   inapp,
   cdac,
   lstm,
