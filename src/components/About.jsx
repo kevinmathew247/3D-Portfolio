@@ -47,12 +47,13 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a Data Science and Artificial Intelligence postgrad with over three years of experience
-        as a Senior Software Engineer, specializing in full stack development, .NET, Python,
-        SQL, Angular, and Xamarin. I've managed large-scale projects, overseeing the full development
-        cycle. Additionally, I'm a content creator, crafting engaging reels on platforms like 
-        Instagram and YouTube. Eager to learn, I continuously enhance my skills to deliver 
-        innovative solutions. Explore my portfolio for examples of my work!
+        Hey there! I’m a Full Stack Developer, and you’re currently exploring a 3D website I built 
+        from scratch—so feel free to swipe and swivel around! With over three years of experience 
+        as a Senior Software Engineer, I’ve sharpened my skills in full stack development, working 
+        with .NET, Python, SQL, Angular, and Xamarin. I’ve successfully led projects from the initial 
+        spark of an idea to fully realized, polished products. Additionally, I'm a content creator, 
+        crafting engaging reels on platforms like Instagram and YouTube. Eager to learn, I continuously
+        enhance my skills to deliver innovative solutions. Explore my portfolio for examples of my work!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

@@ -116,14 +116,24 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Full Stack Developer",
+    company_name: "Zenco Legal",
+    icon: zenco,
+    iconBg: "#FFFFFF",
+    date: "Jul 2024 - Present",
+    points: [
+      "Full stack developer at a legal services firm, actively delivering multiple high-impact projects using Blazor, .NET Core, and Azure services, resulting in a 30% improvement in operational efficiency and scalability.",
+    ],
+  },
+  {
     title: "Senior Software Engineer",
     company_name: "InApp",
     icon: inapp,
     iconBg: "#FFFFFF",
     date: "Jul 2019 - Jul 2022",
     points: [
-      "Full stack .NET developer for a leading talent-empowering mobile application built on Microservices with .NET Core, Xamarin and Azure services which was a first in the organization",
-      "Worked on the entire software development life cycle from scratch including designing the project architecture, migrating from monolithic to microservice architecture, gathering client requirements and improving security",
+      "Led full-stack development for a talent-empowering mobile application built on Microservices with .NET Core, Xamarin and Azure services which was a first in the organization",
+      "Worked on the entire software development life cycle including designing project architecture, migrating from monolithic to microservice architecture, and improving security measures, resulting in a 35% increase in application scalability and performance",
       "Played a key role in creating custom 3D renders using Adobe applications besides working as a full stack .NET and Angular JS developer for a first-in-class outdoor living space builder's web application",
       "Designed and developed unique UI designs using Angular, HTML and CSS which was highly appreciated by the client",
       "Core developer for a global helpdesk application built on .NET and EXT JS used by leading law firms",
@@ -137,8 +147,7 @@ const experiences = [
     iconBg: "#FFFFFF",
     date: "Mar 2018 - May 2018",
     points: [
-      "Worked on several ongoing embedded system projects",
-      "Designed and developed projects with Raspberry Pi, AVR microcontrollers, and Arduino",
+      "Designed and developed ongoing embedded system projects with Raspberry Pi, AVR microcontrollers, and Arduino",
     ],
   },
   {
@@ -148,8 +157,7 @@ const experiences = [
     iconBg: "#FFFFFF",
     date: "Dec 2022 - Present",
     points: [
-      "Providing support during campus visit days, undertaking campus tours, and delivering talks in regional schools",
-      "Tutoring young students undergoing A-Level studies",
+      "Providing support during campus visit days, undertaking campus tours and delivering talks in regional schools"
     ],
   },
   {
@@ -195,7 +203,7 @@ const projects = [
   {
     name: "Content Creation Engine using LSTM",
     description:
-      "Web application designed to facilitate content creation and validation with the help of a LSTM model",
+      "This is a project I undertook as a part of my dissertation. It is a web application designed to facilitate content creation and validation with the help of a LSTM model",
     tags: [
       {
         name: "lstm",
